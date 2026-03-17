@@ -26,7 +26,9 @@
 
 ### ⚙️ How to Run
 
+```
 pip install -r requirements.txt
+```
 
 ## 4. 분석 과정
 
